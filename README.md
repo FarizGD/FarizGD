@@ -1,159 +1,169 @@
-<!--
-  FarizGD's GitHub profile README
-  Crafted around the projects actually living in this account.
--->
+<!-- Welcome to the source code of FarizGD -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,45:6d28d9,100:ec4899&text=FarizGD&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=%20What%20the%20fuck%20am%20i%20building...&descAlignY=60&animation=fadeIn" alt="FarizGD banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:030712,40:6d28d9,70:db2777,100:06b6d4&text=FarizGD&fontColor=ffffff&fontSize=64&fontAlignY=42&desc=What%20the%20fuck%20am%20I%20building...&descAlignY=62&animation=fadeIn" alt="FarizGD header" />
 
 <a href="https://github.com/FarizGD">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=700&color=C084FC&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=72&lines=Developer+%E2%80%A2+Gamer+%E2%80%A2+Professional+Tinkerer;Bots+%7C+Minecraft+%7C+AI+%7C+Linux+%7C+Rhythm+Games" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=600&color=C084FC&center=true&vCenter=true&repeat=true&width=760&height=45&lines=%3E+booting+fariz.exe;%3E+loading+bots%2C+games%2C+Linux%2C+and+chaos;%3E+status%3A+probably+building+something" alt="Terminal typing animation" />
 </a>
 
 <br />
 
-[![Profile views](https://komarev.com/ghpvc/?username=FarizGD&label=PROFILE+VIEWS&color=7c3aed&style=for-the-badge)](https://github.com/FarizGD)
-[![Followers](https://img.shields.io/github/followers/FarizGD?logo=github&style=for-the-badge&color=ec4899&labelColor=18181b)](https://github.com/FarizGD?tab=followers)
-[![Stars](https://img.shields.io/github/stars/FarizGD?affiliations=OWNER%2CCOLLABORATOR&logo=github&style=for-the-badge&color=06b6d4&labelColor=18181b)](https://github.com/FarizGD?tab=repositories)
+<a href="https://github.com/FarizGD?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-18181B?style=for-the-badge&logo=github&logoColor=C084FC" alt="Repositories" /></a>
+<a href="https://farizgd.github.io"><img src="https://img.shields.io/badge/WEBSITE-18181B?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Website" /></a>
+<a href="https://github.com/FarizGD?tab=followers"><img src="https://img.shields.io/github/followers/FarizGD?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=18181B&color=DB2777" alt="Followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=FarizGD&label=VISITORS&color=6D28D9&style=for-the-badge" alt="Profile visitors" />
 
 </div>
 
-## `~/about-me`
+<br />
 
-```ts
-const fariz = {
-  role: "gamer who accidentally became a developer",
-  building: ["bots", "games", "launchers", "web apps", "server tools"],
-  tinkeringWith: ["Minecraft", "Linux", "AI", "Android", "Arduino"],
-  favoriteRuntime: "whatever actually works",
-  philosophy: "ship it, break it, learn why, make it cooler",
-};
+## `01 // identity`
+
+```yaml
+name: FarizGD
+class: gamer_developer
+location: Indonesia
+currently_building: Ryoko
+special_moves:
+  - turning random ideas into repositories
+  - automating things nobody asked to automate
+  - breaking Linux for educational purposes
+  - making Minecraft significantly less normal
+status: online, probably debugging
 ```
 
-I turn random ideas into working projects—sometimes useful, sometimes delightfully cursed. My repositories jump from **WhatsApp automation** and **Minecraft tooling** to **AI experiments**, **desktop apps**, **server panels**, **embedded hardware**, and a whole **rhythm game**.
+<div align="center">
 
-> If it can be customized, automated, self-hosted, modded, or made slightly more unhinged, I am probably touching it.
+### `SELECTED PROJECTS`
 
-## `~/featured-builds`
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### 🎵 [Ryoko](https://github.com/FarizGD/ryoko)
-
-A rhythm-game project built around music, motion, and the eternal struggle of making a chart editor behave.
-
-**Area:** Game development · Web · Audio
-
+<h3 align="center">🎵 RYOKO</h3>
+<p align="center">
+<a href="https://github.com/FarizGD/ryoko">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FarizGD&repo=ryoko&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=ec4899&text_color=a1a1aa" alt="Ryoko repository card" />
+</a>
+</p>
+<p>A rhythm game experiment packed with music, motion, custom charts, and one editor that keeps choosing violence.</p>
 </td>
 <td width="50%" valign="top">
-
-### 🧊 [FLauncher](https://github.com/FarizGD/FLauncher)
-
-A Prism Launcher fork focused on a redesigned QML interface for managing Minecraft instances with more style.
-
-**Area:** C++ · QML · Minecraft
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [RemBot Community Edition](https://github.com/FarizGD/RemBot-Community-Edition)
-
-A community-facing bot project from a long-running obsession with messaging automation and Baileys.
-
-**Area:** Node.js · WhatsApp · Automation
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 [FarizDev Theme](https://github.com/FarizGD/FarizDev-Theme)
-
-A customized Pterodactyl panel experience for game-server hosting that deserves to look as good as it works.
-
-**Area:** React · PHP · Server panels
-
+<h3 align="center">🧊 FLAUNCHER</h3>
+<p align="center">
+<a href="https://github.com/FarizGD/FLauncher">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FarizGD&repo=FLauncher&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=06b6d4&text_color=a1a1aa" alt="FLauncher repository card" />
+</a>
+</p>
+<p>A Prism Launcher fork with a redesigned QML interface for managing Minecraft instances in style.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### 🧠 [LLM Chat](https://github.com/FarizGD/llm-chat)
-
-A streaming AI chat application powered by Cloudflare Workers AI.
-
-**Area:** TypeScript · Workers AI · SSE
-
+<h3 align="center">🤖 REMBOT CE</h3>
+<p align="center">
+<a href="https://github.com/FarizGD/RemBot-Community-Edition">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FarizGD&repo=RemBot-Community-Edition&hide_border=true&bg_color=0d1117&title_color=ec4899&icon_color=f472b6&text_color=a1a1aa" alt="RemBot Community Edition repository card" />
+</a>
+</p>
+<p>WhatsApp automation powered by Node.js, Baileys, stubbornness, and an unreasonable number of bot commands.</p>
 </td>
 <td width="50%" valign="top">
-
-### 🔐 [Arduino Safe](https://github.com/FarizGD/brankas-arduino)
-
-An embedded safe project—because sometimes the code should control actual hardware.
-
-**Area:** Arduino · C++ · Electronics
-
+<h3 align="center">🎨 FARIZDEV THEME</h3>
+<p align="center">
+<a href="https://github.com/FarizGD/FarizDev-Theme">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FarizGD&repo=FarizDev-Theme&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=a1a1aa" alt="FarizDev Theme repository card" />
+</a>
+</p>
+<p>A custom Pterodactyl panel experience for game servers that deserve better than the default interface.</p>
 </td>
 </tr>
 </table>
 
 <div align="center">
 
-[![Explore all repositories](https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-18181b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FarizGD?tab=repositories)
+<a href="https://github.com/FarizGD?tab=repositories">
+<img src="https://img.shields.io/badge/OPEN_PROJECT_ARCHIVE-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" />
+</a>
 
 </div>
 
-## `~/toolbox`
+<br />
+
+## `02 // loadout`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,react,tailwind,cloudflare,cpp,arduino,python,java,bash,linux,debian,arch,docker,git,github,vscode&perline=10" alt="Technology stack" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,react,tailwind,cloudflare,cpp,arduino&theme=dark" alt="Primary technology stack" />
+
+<img src="https://skillicons.dev/icons?i=python,java,bash,linux,debian,arch,docker,git,github,vscode&theme=dark" alt="Secondary technology stack" />
 
 <br /><br />
 
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logoColor=white)
-![WhatsApp Bots](https://img.shields.io/badge/WhatsApp_Bots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Game Development](https://img.shields.io/badge/Game_Development-8B5CF6?style=for-the-badge&logo=godotengine&logoColor=white)
-![Self Hosting](https://img.shields.io/badge/Self_Hosting-0F172A?style=for-the-badge&logo=linux&logoColor=white)
-![AI Experiments](https://img.shields.io/badge/AI_Experiments-EC4899?style=for-the-badge&logo=openai&logoColor=white)
+`BOTS`　`MINECRAFT`　`AI`　`LINUX`　`RHYTHM GAMES`　`ANDROID`　`HARDWARE`
 
 </div>
 
-## `~/github-stats`
+<br />
+
+## `03 // telemetry`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FarizGD&show_icons=true&hide_border=true&bg_color=00000000&title_color=c084fc&icon_color=ec4899&text_color=a1a1aa&rank_icon=github" alt="FarizGD's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarizGD&layout=compact&hide_border=true&bg_color=00000000&title_color=c084fc&text_color=a1a1aa&langs_count=8" alt="FarizGD's most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=FarizGD&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=ec4899&text_color=a1a1aa&rank_icon=percentile" alt="GitHub statistics" />
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarizGD&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=a1a1aa&langs_count=8" alt="Most used languages" />
 
-<br />
+<br /><br />
 
-<img src="https://streak-stats.demolab.com?user=FarizGD&hide_border=true&background=00000000&ring=C084FC&fire=EC4899&currStreakLabel=C084FC&sideLabels=A1A1AA&dates=71717A&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="FarizGD's contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=FarizGD&hide_border=true&background=0D1117&ring=C084FC&fire=EC4899&currStreakLabel=22D3EE&sideLabels=A1A1AA&dates=71717A&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Contribution streak" />
+
+<br /><br />
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=FarizGD&bg_color=0d1117&color=c084fc&line=ec4899&point=22d3ee&area=true&hide_border=true" alt="Contribution activity graph" />
 
 </div>
 
-## `~/currently`
+<br />
 
-- 🎮 Building **Ryoko**, a rhythm-game experiment
-- 🧪 Exploring local/cloud AI and conversational interfaces
-- 🐧 Breaking Linux installations in increasingly educational ways
-- ⛏️ Running, modding, and automating Minecraft things
-- 🔧 Turning “wouldn't it be funny if…” into another repository
+## `04 // active_processes`
 
-<div align="center">
+```text
+PID   PROCESS                    STATE
+001   ryoko                      building
+002   minecraft_everything       permanently running
+003   ai_experiments             consuming tokens
+004   linux_customization        one reboot from disaster
+005   whatsapp_bots              reconnecting...
+006   random_side_project        spawned unexpectedly
+```
 
-### Find me in the code
+<details>
+<summary><b>⚠ Open the classified developer lore</b></summary>
+<br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-FarizGD-181717?style=for-the-badge&logo=github)](https://github.com/FarizGD)
-[![Website](https://img.shields.io/badge/Website-farizgd.github.io-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://farizgd.github.io)
+- I make bots, launchers, web apps, server tools, game experiments, and embedded projects.
+- I enjoy open source, self hosting, strange technical challenges, and software with personality.
+- My workflow is simple: get an idea, build it, break it, understand it, then make it cooler.
+- Clean code is nice. Code that finally works at 3 AM is beautiful.
+
+</details>
 
 <br />
 
-<sub>Built with curiosity, questionable sleep habits, and an unreasonable number of side quests.</sub>
+<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:ec4899,55:6d28d9,100:050816" alt="" />
+### `CONNECTION ESTABLISHED`
+
+<a href="https://github.com/FarizGD"><img src="https://img.shields.io/badge/GITHUB-FarizGD-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+<a href="https://farizgd.github.io"><img src="https://img.shields.io/badge/WEB-farizgd.github.io-0891B2?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Personal website" /></a>
+
+<br /><br />
+
+<sub>Powered by curiosity, side quests, and errors that absolutely should not exist.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&section=footer&color=0:06b6d4,45:6d28d9,100:db2777" alt="" />
 
 </div>
