@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,45:6d28d9,100:ec4899&text=FARIZ%20GD&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=I%20build%20whatever%20sounds%20fun.&descAlignY=60&animation=fadeIn" alt="FarizGD banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,45:6d28d9,100:ec4899&text=FarizGD&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=%20What%20the%20fuck%20am%20i%20building...&descAlignY=60&animation=fadeIn" alt="FarizGD banner" />
 
 <a href="https://github.com/FarizGD">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2400&pause=700&color=C084FC&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=72&lines=Developer+%E2%80%A2+Gamer+%E2%80%A2+Professional+Tinkerer;Bots+%7C+Minecraft+%7C+AI+%7C+Linux+%7C+Rhythm+Games" alt="Typing introduction" />
