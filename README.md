@@ -49,36 +49,41 @@ status: online, probably debugging
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=FarizGD&repo=ryoko&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=ec4899&text_color=a1a1aa" alt="Ryoko repository card" />
 </a>
 </p>
-<p>A rhythm game experiment packed with music, motion, custom charts, and one editor that keeps choosing violence.</p>
+<p>A rhythm game experiment packed with music, motion, custom charts, and an editor that keeps choosing violence.</p>
+<p align="center"><code>RHYTHM GAME</code> <code>WEB</code> <code>AUDIO</code></p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">🧊 FLAUNCHER</h3>
+<h3 align="center">📱 SCRCPY ALTERNATE</h3>
 <p align="center">
-<a href="https://github.com/FarizGD/FLauncher">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FarizGD&repo=FLauncher&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=06b6d4&text_color=a1a1aa" alt="FLauncher repository card" />
+<a href="https://github.com/FarizGD/A-FUCKING-scrcpy-ALTERNATE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FarizGD&repo=A-FUCKING-scrcpy-ALTERNATE&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=06b6d4&text_color=a1a1aa" alt="scrcpy alternate repository card" />
 </a>
 </p>
-<p>A Prism Launcher fork with a redesigned QML interface for managing Minecraft instances in style.</p>
+<p>A personal scrcpy fork for fast Android mirroring, control, audio forwarding, recording, camera access, and webcam experiments.</p>
+<p align="center"><code>ANDROID</code> <code>SCRCPY</code> <code>DESKTOP</code></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">🤖 REMBOT CE</h3>
+<h3 align="center">🧍 KALIDOFACE 3D DESKTOP</h3>
 <p align="center">
-<a href="https://github.com/FarizGD/RemBot-Community-Edition">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FarizGD&repo=RemBot-Community-Edition&hide_border=true&bg_color=0d1117&title_color=ec4899&icon_color=f472b6&text_color=a1a1aa" alt="RemBot Community Edition repository card" />
+<a href="https://github.com/FarizGD/kalidoface-3d-desktop">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=FarizGD&repo=kalidoface-3d-desktop&hide_border=true&bg_color=0d1117&title_color=ec4899&icon_color=f472b6&text_color=a1a1aa" alt="Kalidoface 3D Desktop repository card" />
 </a>
 </p>
-<p>WhatsApp automation powered by Node.js, Baileys, stubbornness, and an unreasonable number of bot commands.</p>
+<p>A desktop take on browser powered 3D VTubing with VRM avatars, face tracking, full body tracking, and OBS friendly output.</p>
+<p align="center"><code>VTUBING</code> <code>VRM</code> <code>TRACKING</code></p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">🎨 FARIZDEV THEME</h3>
+<h3 align="center">🏳️‍⚧️ FEMBOY LINUX</h3>
 <p align="center">
-<a href="https://github.com/FarizGD/FarizDev-Theme">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=FarizGD&repo=FarizDev-Theme&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=a78bfa&text_color=a1a1aa" alt="FarizDev Theme repository card" />
+<a href="https://github.com/FarizGD/femboy-linux">
+<img src="https://img.shields.io/badge/FEMBOY_LINUX-PRIVATE_PROJECT-DB2777?style=for-the-badge&logo=archlinux&logoColor=white&labelColor=0D1117" alt="Femboy Linux private project" />
 </a>
 </p>
-<p>A custom Pterodactyl panel experience for game servers that deserve better than the default interface.</p>
+<p>An Arch based installer ISO that boots into a lightweight graphical installer and deploys a KDE Plasma 6 system.</p>
+<p align="center"><code>ARCH LINUX</code> <code>KDE PLASMA</code> <code>ARCHISO</code></p>
+<p align="center"><sub>Private repository. The link works only for authorized accounts.</sub></p>
 </td>
 </tr>
 </table>
